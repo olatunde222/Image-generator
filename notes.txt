@@ -1,0 +1,3 @@
+- This project employed the openAi library with openAI API to get the images  
+  from the DALL - E model.
+- The openAI node package manager(npm) was installed used to make the API call directly by running [npm i openai] on the terminal;
